@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-242938?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/ishikkkkaaaa/ishikkkkaaaa/output/github-contribution-grid-snake.svg" width="100%"/>
 </a>
 
 </div>
