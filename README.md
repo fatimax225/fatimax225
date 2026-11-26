@@ -1,166 +1,61 @@
+<!-- ```
+ __      __  ______  ____    ____    __  __  ____
+/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+ \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
-<!-- ================= HERO SECTION ================= -->
+``` -->
 
-<div align="center">
+<img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:432878,100:9B72CF&height=220&section=header&text=Fatima%20Aqeel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Science%20%26%20AI&descSize=17&descAlignY=58&animation=fadeIn"/>
+<p align="center"><i>(drawing by me)</i></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=B58AFF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;Data+Science+%26+AI+Enthusiast;Machine+Learning+Explorer;Turning+Data+Into+Insights" />
+<br /> <br />
 
-<br/>
 
-**Building Ideas Through Data and Technology**
+#### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
 
-<br/>
+<!--START_SECTION:feed-->
+* [Who runs the Arch Linux mirror in the UAE?](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;arch-mirror-uae&#x2F;)
+* [Challenge #2: Unique ID Generation](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;gossip-glomers-unique-ids&#x2F;)
+* [I made a Figma plugin and it was harder than I expected](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;chromakey&#x2F;)
+* [My greatest contribution to open-source, yet.](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;greatest-oss-contribution&#x2F;)
+* [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
+<!--END_SECTION:feed-->
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br />
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-242938?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+#### Or check out cool stuff from dev.to!
 
-</div>
+<!-- BLOG-POST-LIST:START -->
+- [How to create and publish your own Vue component libraries &lpar;actually works I swear&rpar;](https://dev.to/khalby786/how-to-create-and-publish-your-own-vue-component-libraries-actually-works-i-swear-15ol)
+- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
+- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
+- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
+<!-- BLOG-POST-LIST:END -->
 
----
+<br />
 
-<!-- ================= ABOUT ME ================= -->
+#### My weekly development breakdown
 
-## ✦ About Me
+<!--START_SECTION:waka-->
 
-Hello! I'm **Fatima Aqeel**, a Computer Science graduate from Bahrain, specializing in **Data Science and Artificial Intelligence**.
+```txt
+TypeScript   1 hr 49 mins          █████████████░░░░░░░░░░░░   51.47 %
+Markdown     1 hr 20 mins          █████████▓░░░░░░░░░░░░░░░   38.04 %
+Python       11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+YAML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+```
 
-I enjoy transforming data into meaningful insights and developing intelligent solutions to real-world problems.
+<!--END_SECTION:waka-->
 
-- 🎓 Computer Science Graduate.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 📊 Passionate about Data Science and Analytics.
-- 💻 Currently improving my skills in Python, SQL, and Data Analytics.
-- 🌱 Always learning, exploring, and building new things.
+<br />
 
----
-
-<!-- ================= TECHNICAL SKILLS ================= -->
-
-## ✦ Technologies & Skills
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql&theme=dark"/>
-
-<br/><br/>
-
-### Data Science & Artificial Intelligence
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<br/><br/>
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-</div>
-
----
-
-<!-- ================= FEATURED PROJECTS ================= -->
-
-## ✦ Featured Projects
-
-### 01. HASAD – حصاد 🌱
-
-**Smart Farming Application**
-
-An AI-powered smart farming concept designed to support farmers in Bahrain using NASA Earth observation data.
-
-- Weather and environmental monitoring.
-- Crop rotation recommendations.
-- Harvest prediction and risk indicators.
-- Data-driven agricultural insights.
-
-**Technologies:** Python · Streamlit · NASA POWER API · Data Analysis
-
-<br/>
-
-### 02. Alzheimer's Disease Detection 🧠
-
-**AI-Based Early Detection System**
-
-An intelligent system combining Machine Learning and Deep Learning to support early Alzheimer's disease detection using clinical data and MRI brain images.
-
-- Random Forest for clinical data analysis.
-- CNN for MRI image classification.
-- Data preprocessing and normalization.
-- SMOTE for class balancing.
-
-**Technologies:** Python · Random Forest · CNN · TensorFlow · Scikit-learn
-
----
-
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-## ✦ GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=B58AFF&icon_color=B58AFF&text_color=C9D1D9&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=B58AFF&text_color=C9D1D9"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
-
-## ✦ Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=B58AFF&fire=B58AFF&currStreakLabel=B58AFF"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=B58AFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<!-- ================= CONNECT ================= -->
-
-## ✦ Let's Connect
-
-<div align="center">
-
-I'm always open to learning, collaboration, and exciting opportunities.
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:432878,100:09090F&height=110&section=footer"/>
-
-</div>
-
+<details><summary>Kewl badges</summary>
+<img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=10" />
+</details>
