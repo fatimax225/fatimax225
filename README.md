@@ -1,8 +1,10 @@
-
 <p align="center">
-  <img width="80%" alt="Fatima Aqeel" src="./assets/gh-readme-header.png"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:432878,100:9B72CF&height=220&section=header&text=Fatima%20Aqeel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20Artificial%20Intelligence&descSize=17&descAlignY=58&animation=fadeIn"
+    alt="Fatima Aqeel Header"
+  />
 </p>
-
 <br/>
 
 I'm a Computer Science graduate from Bahrain, specializing in Data Science and Artificial Intelligence.
