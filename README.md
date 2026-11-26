@@ -17,7 +17,7 @@
 
 ---
 
-## About Me
+## ✦ About Me
 
 Computer Science graduate from Bahrain, specializing in Data Science and Artificial Intelligence.
 
@@ -25,7 +25,7 @@ I enjoy exploring technology, developing practical projects, and transforming id
 
 ---
 
-## Tech Stack
+## ✦ Tech Stack
 
 <div align="center">
 
@@ -51,15 +51,14 @@ An AI-based system combining Machine Learning and Deep Learning for early Alzhei
 
 ---
 
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-26364A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-26364A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    LinkedIn
+  </a>
+  &nbsp; ✦ &nbsp;
+  <a href="https://github.com/YOUR_USERNAME">
+    GitHub
+  </a>
+</p>
 </div>
 
