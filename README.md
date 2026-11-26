@@ -31,8 +31,35 @@ I enjoy exploring technology, developing practical projects, and transforming id
 
 <img src="https://skillicons.dev/icons?i=python,java,html,js,mysql,git,github&theme=light" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+---
+
+## ✦ Featured Projects
+
+### HASAD – Smart Farming Application
+
+An AI-powered smart farming concept designed to support farmers in Bahrain using NASA Earth observation data.
+
+**Technologies:** Python · Streamlit · NASA POWER API · Data Analysis
+
+### Alzheimer's Disease Detection
+
+An AI-based system combining Machine Learning and Deep Learning for early Alzheimer's disease detection using clinical data and MRI brain images.
+
+**Technologies:** Python · Random Forest · CNN · TensorFlow · Scikit-learn
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-26364A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-26364A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
