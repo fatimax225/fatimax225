@@ -1,62 +1,56 @@
-<!-- ```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
-``` -->
+<!-- ================= ACHIEVEMENTS ================= -->
 
-<img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
+## ✦ Achievements & Recognition
 
-<p align="center"><i>(drawing by me)</i></p>
+- **Local Impact Award** – NASA Space Apps Challenge Bahrain 2026.
+- **HASAD Project** – Smart farming application using NASA Earth observation data.
+- **Computer Science Graduate** – Data Science & Artificial Intelligence.
+- **Oracle Database Administration 2019** – Professional Training.
 
-<br /> <br />
+---
 
+<!-- ================= EXPLORE MY WORK ================= -->
 
+## ✦ Explore My Work
 
+- **HASAD** – Smart Farming Application.
+- **Alzheimer's Disease Detection** – Machine Learning & Deep Learning.
+- **Excel Projects** – Data Analysis & Training Resources.
+- **Python & SQL** – Learning and Practical Projects.
+- **Oracle Database** – Database Administration.
 
+---
 
-<!-- ✦ Achievements & Recognition-->
-✦ Achievements & Recognition
-* Local Impact Award** – NASA Space Apps Challenge Bahrain 2026.
-* HASAD Project** – Developed a smart farming application concept using NASA Earth observation data.
-* Computer Science Graduate** – Data Science & Artificial Intelligence.
-* Oracle Database Administration 2019** – Professional Training.
-<!--END_SECTION:feed-->
+<!-- ================= DEVELOPMENT FOCUS ================= -->
 
-<br />
+## ✦ My Development Focus
 
-#### Or check out cool stuff from dev.to!
+<div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-- [How to create and publish your own Vue component libraries &lpar;actually works I swear&rpar;](https://dev.to/khalby786/how-to-create-and-publish-your-own-vue-component-libraries-actually-works-i-swear-15ol)
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-<!-- BLOG-POST-LIST:END -->
+| Area | Focus |
+|:---|:---|
+| Python | Data Analysis & Machine Learning |
+| SQL | Database Management |
+| AI & ML | Intelligent Applications |
+| Excel | Data Analysis & Visualization |
+| Web Development | HTML, CSS & JavaScript |
 
-<br />
+</div>
 
-#### My weekly development breakdown
+---
 
-<!--START_SECTION:waka-->
+<!-- ================= CERTIFICATIONS ================= -->
 
-```txt
-TypeScript   1 hr 49 mins          █████████████░░░░░░░░░░░░   51.47 %
-Markdown     1 hr 20 mins          █████████▓░░░░░░░░░░░░░░░   38.04 %
-Python       11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-YAML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-```
+## ✦ Certifications & Achievements
 
-<!--END_SECTION:waka-->
+<div align="center">
 
-<br />
+<img src="https://img.shields.io/badge/NASA-Space_Apps_2026-9B72CF?style=for-the-badge&logo=nasa&logoColor=white"/>
 
-<details><summary>Kewl badges</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=10" />
-</details>
+<img src="https://img.shields.io/badge/Oracle-Database_Administration-B58AFF?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data_Science-%26_AI-432878?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
