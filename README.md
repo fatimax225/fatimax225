@@ -16,14 +16,15 @@
 <br /> <br />
 
 
-#### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
 
-<!--START_SECTION:feed-->
-* [Who runs the Arch Linux mirror in the UAE?](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;arch-mirror-uae&#x2F;)
-* [Challenge #2: Unique ID Generation](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;gossip-glomers-unique-ids&#x2F;)
-* [I made a Figma plugin and it was harder than I expected](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;chromakey&#x2F;)
-* [My greatest contribution to open-source, yet.](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;greatest-oss-contribution&#x2F;)
-* [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
+
+
+<!-- ✦ Achievements & Recognition-->
+✦ Achievements & Recognition
+* Local Impact Award** – NASA Space Apps Challenge Bahrain 2026.
+* HASAD Project** – Developed a smart farming application concept using NASA Earth observation data.
+* Computer Science Graduate** – Data Science & Artificial Intelligence.
+* Oracle Database Administration 2019** – Professional Training.
 <!--END_SECTION:feed-->
 
 <br />
