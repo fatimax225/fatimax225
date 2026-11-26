@@ -53,9 +53,9 @@ An AI-based system combining Machine Learning and Deep Learning for early Alzhei
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/fatimaaqeel">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
-  </a>
+<a href="https://linkedin.com/in/fatimaaqeel">
+  <img src="https://cdn.simpleicons.org/linkedin/000000" width="35" alt="LinkedIn"/>
+</a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@saay.channel">
     <img src="https://cdn.simpleicons.org/youtube/26364A" width="35" alt="YouTube"/>
