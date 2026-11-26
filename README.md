@@ -1,74 +1,38 @@
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:432878,100:9B72CF&height=220&section=header&text=Fatima%20Aqeel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20Artificial%20Intelligence&descSize=17&descAlignY=58&animation=fadeIn"
-    alt="Fatima Aqeel Header"
-  />
-</p>
-<br/>
 
-I'm a Computer Science graduate from Bahrain, specializing in Data Science and Artificial Intelligence.
+<div align="center">
 
-**About me**
-
-- Interested in Data Science, Machine Learning, and Artificial Intelligence.
-- Worked on AI-based academic and practical projects.
-- Participated in NASA Space Apps Challenge Bahrain 2026.
-- Currently exploring Python, SQL, Oracle Database, and Data Analytics.
-- Passionate about learning new technologies and building meaningful solutions.
-
-**Technologies I work with**
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=38&duration=3000&pause=1000&color=26364A&center=true&vCenter=true&width=650&height=90&lines=Hello%2C+I'm+Fatima+Aqeel;Computer+Science+Graduate;Data+Science+%26+AI" alt="Hello, I'm Fatima Aqeel" />
+</a>
 
 <p>
-<code><img height="25" src="https://skillicons.dev/icons?i=python" alt="Python"/></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=java" alt="Java"/></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=html" alt="HTML"/></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=css" alt="CSS"/></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=git" alt="Git"/></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=github" alt="GitHub"/></code>
+  <b>Data Science & Artificial Intelligence</b>
 </p>
 
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/YOUR_USERNAME">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=B58AFF&icon_color=B58AFF&text_color=C9D1D9"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/YOUR_USERNAME">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=B58AFF&text_color=C9D1D9"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Projects
-
-<a href="YOUR_HASAD_REPOSITORY_LINK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=HASAD&theme=transparent&hide_border=true&title_color=B58AFF"/>
-</a>
-
-<a href="YOUR_ALZHEIMERS_REPOSITORY_LINK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Alzheimers-Detection&theme=transparent&hide_border=true&title_color=B58AFF"/>
-</a>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    LinkedIn
-  </a>
-  &nbsp; ✦ &nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
-    GitHub
-  </a>
+<p>
+  Turning ideas into meaningful solutions through data and technology.
 </p>
 
+</div>
+
+---
+
+## About Me
+
+Computer Science graduate from Bahrain, specializing in Data Science and Artificial Intelligence.
+
+I enjoy exploring technology, developing practical projects, and transforming ideas into intelligent solutions.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,js,mysql,git,github&theme=light" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+
+</div>
