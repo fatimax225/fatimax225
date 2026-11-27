@@ -69,11 +69,12 @@ An AI-based system combining Machine Learning and Deep Learning for early Alzhei
     <img src="https://cdn.simpleicons.org/github/26364A" width="35" alt="GitHub"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://portfolio-blush-six-rgayxcbio7.vercel.app/">
-    <strong>🌐 Portfolio</strong>
-  </a>
-</p>
+<a href="https://portfolio-blush-six-rgayxcbio7.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/26364a/domain.png"
+       width="35"
+       height="35"
+       alt="Portfolio"/>
+</a>
 
 </div>
 
